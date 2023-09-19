@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-Welcome to Pathfinding Visualizer! I built this application using REACTJS. You can access it here (use Google Chrome!): https://muddledluck.github.io/Pathfinding-Algorithm-Visualization/
+Welcome to Pathfinding Visualizer! I built this application using REACTJS. 
 
 ## Algorithms
 
